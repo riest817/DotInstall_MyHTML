@@ -1,0 +1,24 @@
+Shift + Alt + ↑or↓ コード複製
+<ul>unordered list</ul> 順番なし
+<oi>ordered list</oi> 順番あり
+<li>list item</li>
+
+<dl>description list 
+<dt></dt>description term
+<dl></dl>description detail
+
+<dl>
+  <dt>項目</dt>
+  <dd>説明</dd>
+  <dt>項目</dt>
+  <dd>説明</dd>
+</dl>
+
+<thead> table header
+<tbody> table body</tbody>
+<tr> table row</tr>
+<th>table header cell</th>
+<td>table data cell</td>
+
+# HTML タグ調べる
+  MDN web docs
